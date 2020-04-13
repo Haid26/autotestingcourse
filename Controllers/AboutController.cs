@@ -6,12 +6,11 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ArcadiaCourse.Controllers
 {
-    public class HomeController : Controller
+    public class AboutController : Controller
     {
         public IActionResult Index()
         {
             return View();
         }
-       
     }
 }
