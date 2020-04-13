@@ -110,4 +110,5 @@ C:\Users\Evgeniy Karpov\source\repos\ArcadiaCourse\ArcadiaCourse\obj\Debug\netco
 C:\Users\Evgeniy Karpov\source\repos\ArcadiaCourse\ArcadiaCourse\obj\Debug\netcoreapp3.1\ArcadiaCourse.dll
 C:\Users\Evgeniy Karpov\source\repos\ArcadiaCourse\ArcadiaCourse\obj\Debug\netcoreapp3.1\ArcadiaCourse.pdb
 C:\Users\Evgeniy Karpov\source\repos\ArcadiaCourse\ArcadiaCourse\obj\Debug\netcoreapp3.1\ArcadiaCourse.genruntimeconfig.cache
-C:\Users\Evgeniy Karpov\source\repos\ArcadiaCourse\ArcadiaCourse\bin\Debug\netcoreapp3.1\images\img1.jpg
+C:\Users\Evgeniy Karpov\source\repos\ArcadiaCourse\ArcadiaCourse\bin\Debug\netcoreapp3.1\wwwroot\images\img1.jpg
+C:\Users\Evgeniy Karpov\source\repos\ArcadiaCourse\ArcadiaCourse\obj\Debug\netcoreapp3.1\ArcadiaCourse.csprojAssemblyReference.cache
