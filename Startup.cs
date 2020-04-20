@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Configuration;
+using ArcadiaCourse.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace ArcadiaCourse
 {
@@ -23,6 +25,8 @@ namespace ArcadiaCourse
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddDbContext<CrudExampleContext>(options =>
+               options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
