@@ -35,7 +35,7 @@ namespace ArcadiaCourse.Api
         }
 
         [HttpPut("{id}")]
-        public IActionResult Put(int id, [FromForm] sting value)
+        public IActionResult Put(int id, [FromForm] string value)
         {
             if (!_context.Messages.Any(m => m.Id == id))
             {

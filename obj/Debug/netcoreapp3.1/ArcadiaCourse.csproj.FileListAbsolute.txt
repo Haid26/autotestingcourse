@@ -143,3 +143,6 @@ C:\Users\Evgeniy Karpov\source\repos\ArcadiaCourse\ArcadiaCourse\bin\Debug\netco
 C:\Users\Evgeniy Karpov\source\repos\ArcadiaCourse\ArcadiaCourse\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Evgeniy Karpov\source\repos\ArcadiaCourse\ArcadiaCourse\obj\Debug\netcoreapp3.1\ArcadiaCourse.csproj.CoreCompileInputs.cache
 C:\Users\Evgeniy Karpov\source\repos\ArcadiaCourse\ArcadiaCourse\obj\Debug\netcoreapp3.1\ArcadiaCourse.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Evgeniy Karpov\source\repos\ArcadiaCourse\ArcadiaCourse\obj\Debug\netcoreapp3.1\Razor\Views\Messages\Create.cshtml.g.cs
+C:\Users\Evgeniy Karpov\source\repos\ArcadiaCourse\ArcadiaCourse\obj\Debug\netcoreapp3.1\Razor\Views\Messages\Details.cshtml.g.cs
+C:\Users\Evgeniy Karpov\source\repos\ArcadiaCourse\ArcadiaCourse\obj\Debug\netcoreapp3.1\Razor\Views\Messages\ListMessages.cshtml.g.cs
